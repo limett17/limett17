@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @limett17
-- 👀 I’m interested in web development, ML and math
-- 🌱 I’m currently learning python for backend and ML
-- 💞️ I’m looking to collaborate on learning back-end together!!
-- 📫 How to reach me: mail me - lizam1706@gmail.com
+ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ Welcome, everyone! ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡
+
+𝗬𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗟𝗶𝗺𝗲𝘁𝘁! 𝗜 𝗮𝗺 𝗮 𝗦𝗣𝗕𝗨 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴.
+
+𝙄 𝙢𝙖𝙞𝙣𝙡𝙮 𝙬𝙤𝙧𝙠 𝙤𝙣:
+- 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘪𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘪𝘵 𝘢𝘯𝘥 𝘣𝘦 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢 𝘮𝘰𝘷𝘪𝘯𝘨 𝘳𝘰𝘣𝘰𝘵 🤖
+- 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘸𝘢𝘯𝘯𝘢 𝘬𝘯𝘰𝘸 𝘩𝘰𝘸 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘪𝘯𝘴𝘪𝘥𝘦
+- 𝘈𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘳 𝘮𝘺 𝘶𝘯𝘪 𝘵𝘢𝘴𝘬𝘴
+
+𝗜 𝗮𝗺 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀!
+
 
 
