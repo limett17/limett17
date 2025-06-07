@@ -1,4 +1,6 @@
-ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ Welcome, everyone! ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡
+![cat-ghibli-gif](https://github.com/limett17/limett17/blob/main/bb2bd06afd95e9cd0f370cdc622a66bf.gif)
+
+<h1>ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ Welcome, everyone! ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡</h1>
 
 ![cat-gif](https://github.com/limett17/limett17/blob/main/ddaa813eef9fb1c57a8dfd6142a3d955.gif)
 
