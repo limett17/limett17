@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/limett17/limett17/blob/main/bb2bd06afd95e9cd0f370cdc622a66bf.gif">
+  <img src="https://github.com/limett17/limett17/blob/main/gifs/bb2bd06afd95e9cd0f370cdc622a66bf.gif">
   <h1>ミ★ Welcome, everyone! ★彡</h1>
 </div>
 
 <div align="center">
-  <img src="https://github.com/limett17/limett17/blob/main/3d2d416c53e6d0b2d6b157edf1e4b1db.gif">
+  <img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif">
   <h4>𝗬𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗟𝗶𝗺𝗲𝘁𝘁! 𝗜 𝗮𝗺 𝗮 𝗦𝗣𝗕𝗨 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴.</h4>
 </div>
 
