@@ -25,6 +25,12 @@
 <div align="center">
 <h3 align="center">𝗜 𝗮𝗺 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀!</h3>
 </div>
+<div align="center">
+  <h4>𝙔𝙤𝙪 𝙘𝙖𝙣 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚</h4>
+  <a href="https://t.me/limett1717" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
 
 <div align="center">
