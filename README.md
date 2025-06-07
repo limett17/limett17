@@ -12,7 +12,7 @@
   <img src="https://github.com/limett17/limett17/blob/main/gifs/33d4b1695d567bdc8a70e627fc6eac2a (1).gif">
 </div>
 <div style="display: inline-block; width=45%;">
-   <img src="https://github.com/limett17/limett17/blob/main/gifs/3c92cae03cafdebff3593ebc79254cfa.gif" align="right" height="50px"></img>
+   <img src="https://github.com/limett17/limett17/blob/main/gifs/3c92cae03cafdebff3593ebc79254cfa.gif" align="right" height="150px"></img>
 <h3>𝙄 𝙢𝙖𝙞𝙣𝙡𝙮 𝙬𝙤𝙧𝙠 𝙤𝙣:</h3>
 <ul>
 <li>𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘪𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘪𝘵 𝘢𝘯𝘥 𝘣𝘦 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢 𝘮𝘰𝘷𝘪𝘯𝘨 𝘳𝘰𝘣𝘰𝘵 🤖</li>
