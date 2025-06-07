@@ -19,7 +19,7 @@
 <li>𝘈𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘳 𝘮𝘺 𝘶𝘯𝘪 𝘵𝘢𝘴𝘬𝘴</li>
 </ul>
 </div>
-<img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif" style="display: inline-block; width=45%;"></img>
+<img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif" align="right"></img>
 
 
 <div align="center">
