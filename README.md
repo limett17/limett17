@@ -1,13 +1,15 @@
 <div align="center">
-<img src="https://github.com/limett17/limett17/blob/main/bb2bd06afd95e9cd0f370cdc622a66bf.gif">
+  <img src="https://github.com/limett17/limett17/blob/main/bb2bd06afd95e9cd0f370cdc622a66bf.gif">
+  <h1>ミ★ Welcome, everyone! ★彡</h1>
 </div>
-<h1>ミ★ Welcome, everyone! ★彡</h1>
 
-![cat-gif](https://github.com/limett17/limett17/blob/main/ddaa813eef9fb1c57a8dfd6142a3d955.gif)
+<div align="center">
+  <img src="https://github.com/limett17/limett17/blob/main/3d2d416c53e6d0b2d6b157edf1e4b1db.gif">
+  <h4>𝗬𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗟𝗶𝗺𝗲𝘁𝘁! 𝗜 𝗮𝗺 𝗮 𝗦𝗣𝗕𝗨 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴.</h4>
+</div>
 
-𝗬𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗟𝗶𝗺𝗲𝘁𝘁! 𝗜 𝗮𝗺 𝗮 𝗦𝗣𝗕𝗨 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗮𝗻𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴.
 
-𝙄 𝙢𝙖𝙞𝙣𝙡𝙮 𝙬𝙤𝙧𝙠 𝙤𝙣:
+<h3>𝙄 𝙢𝙖𝙞𝙣𝙡𝙮 𝙬𝙤𝙧𝙠 𝙤𝙣:</h3>
 - 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘪𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘪𝘵 𝘢𝘯𝘥 𝘣𝘦 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢 𝘮𝘰𝘷𝘪𝘯𝘨 𝘳𝘰𝘣𝘰𝘵 🤖
 - 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘸𝘢𝘯𝘯𝘢 𝘬𝘯𝘰𝘸 𝘩𝘰𝘸 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘪𝘯𝘴𝘪𝘥𝘦
 - 𝘈𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘳 𝘮𝘺 𝘶𝘯𝘪 𝘵𝘢𝘴𝘬𝘴
