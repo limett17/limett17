@@ -18,8 +18,9 @@
 <li>𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘸𝘢𝘯𝘯𝘢 𝘬𝘯𝘰𝘸 𝘩𝘰𝘸 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘪𝘯𝘴𝘪𝘥𝘦</li>
 <li>𝘈𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘳 𝘮𝘺 𝘶𝘯𝘪 𝘵𝘢𝘴𝘬𝘴</li>
 </ul>
+  <img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif" align="right"></img>
 </div>
-<img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif" align="right"></img>
+
 
 
 <div align="center">
