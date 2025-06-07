@@ -11,12 +11,14 @@
 <div align="center">
   <img src="https://github.com/limett17/limett17/blob/main/gifs/33d4b1695d567bdc8a70e627fc6eac2a (1).gif">
 </div>
+<div width="45%">
 <h3>𝙄 𝙢𝙖𝙞𝙣𝙡𝙮 𝙬𝙤𝙧𝙠 𝙤𝙣:</h3>
 <ul>
 <li>𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘪𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵 𝘯𝘦𝘶𝘳𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘪𝘯 𝘪𝘵 𝘢𝘯𝘥 𝘣𝘦 𝘢𝘣𝘭𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢 𝘮𝘰𝘷𝘪𝘯𝘨 𝘳𝘰𝘣𝘰𝘵 🤖</li>
 <li>𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘸𝘢𝘯𝘯𝘢 𝘬𝘯𝘰𝘸 𝘩𝘰𝘸 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘪𝘯𝘴𝘪𝘥𝘦</li>
 <li>𝘈𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘳 𝘮𝘺 𝘶𝘯𝘪 𝘵𝘢𝘴𝘬𝘴</li>
 </ul>
+</div>
 <img src="https://github.com/limett17/limett17/blob/main/gifs/3d2d416c53e6d0b2d6b157edf1e4b1db.gif" width="45%"></img>
 
 
